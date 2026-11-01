@@ -1,4 +1,4 @@
-# QLoRA Fine-Tuned Intent Classifier for Customer Support Automation
+# QLoRA Fine-Tuning of Qwen2.5-1.5B for Multi-Label Text Classification 
 
 Fine-tuning Qwen2.5-1.5B-Instruct with QLoRA to route customer support queries by
 intent, urgency, department, and sentiment — matching large-model accuracy at a
